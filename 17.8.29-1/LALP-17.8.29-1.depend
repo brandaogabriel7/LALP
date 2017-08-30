@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1504024057 source:c:\users\aluno\desktop\lalp-17.8.29-1\main.cpp
+	<iostream>
+	<cstdlib>
+
+1504014064 source:c:\users\gabriel\desktop\inf\git\lalp\17.8.29-1\main.cpp
+	<iostream>
+	<cstdlib>
+

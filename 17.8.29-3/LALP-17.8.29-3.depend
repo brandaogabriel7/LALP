@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504130530 source:c:\users\gabriel\desktop\inf\git\lalp\17.8.29-3\main.cpp
+	<iostream>
+	<cstdlib>
+
